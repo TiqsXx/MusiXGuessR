@@ -169,7 +169,7 @@
 
 <main>
   <!-- Hauptüberschrift des Spiels -->
-  <h1>MusixGuessr</h1>
+  <h1>MusiXGuessR</h1>
 
   <!-- Unterüberschrift, die die Spielaufgabe beschreibt -->
   <h2>Guess the Song!</h2>
