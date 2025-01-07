@@ -1,7 +1,6 @@
 <script>
   import { onMount } from "svelte"; // Importiert den Lifecycle-Hook `onMount` aus Svelte.
   import { songlist } from "./songlist.js"; // Importiert eine Liste von Songs aus einer separaten Datei.
-
   // Deklaration von Variablen zur Steuerung des Spiels.
   let songsrc = ""; // URL des aktuellen Songs (Vorschau oder vollständiger Track).
   let songprev = ""; // Vorschau-URL des Songs.
